@@ -5,6 +5,8 @@ This repository provides the scripts to apply the algorithms explained in the ma
 Küçük Ç., Koirala S., Carvalhais N., Miralles D.G., Reichstein M., and Jung M. (2020) Ecohydrological 
 metrics of vegetation over Africa derived from geostationary satellite retrievals. Earth System Science Data Discussions
 
+NEED TO DOUBLE CHECK THE TITLE OF THE PAPER AND OTHER INFORMATION LIKE THE EQUATION NUMBER!!!! 
+
 # Developer
 The scripts were written by [Çağlar Küçük](https://www.bgc-jena.mpg.de/bgi/index.php/People/CaglarKucuk) 
 at the [Department of Biogeochemical Integration, Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/bgi/index.php/Main/HomePage) in Jena, Germany. 
