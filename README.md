@@ -2,10 +2,7 @@
 
 This repository provides the scripts to apply the algorithms explained in the manuscript:
 
-Küçük Ç., Koirala S., Carvalhais N., Miralles D.G., Reichstein M., and Jung M. (2020) Ecohydrological 
-metrics of vegetation over Africa derived from geostationary satellite retrievals. Earth System Science Data Discussions
-
-NEED TO DOUBLE CHECK THE TITLE OF THE PAPER AND OTHER INFORMATION LIKE THE EQUATION NUMBER!!!! 
+Küçük Ç., Koirala S., Carvalhais N., Miralles D.G., Reichstein M., and Jung M. (2020) Characterising the response of vegetation cover to water limitation in Africa using geostationary satellites. Earth System Science Data Discussions
 
 # Developer
 The scripts were written by [Çağlar Küçük](https://www.bgc-jena.mpg.de/bgi/index.php/People/CaglarKucuk) 
@@ -20,7 +17,7 @@ smoothDetector.R -> Implementation of Steps 1-7 of Algorithm-1 in the correspond
 
 exitCorrector.R -> Step 8 of Algorithm-1
 
-expFit_intFree_asyMin.R -> Curve fitting function for Eq. 1
+expFit_intFree_asyMin.R -> Curve fitting function for the exponential decay function (see Eq. 4 in the publication)
 
 expFit_process.R -> Implementation of Steps 1-8 of Algorithm-2
 
@@ -30,7 +27,7 @@ master.R -> Script to run the functions provided above
 
 sampleDataPoints.rds -> Time series of FVC used in this study for 100 randomly selected grid cells 
 
-sampleMinValues.rds -> FVC_min values of those randomly selected grid cells, to be used in Eq. 1
+sampleMinValues.rds -> FVC_min values of those randomly selected grid cells, to be used in Eq. 4
 
 # Requires
 
