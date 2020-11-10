@@ -2,7 +2,7 @@
 
 This repository provides the scripts to apply the algorithms explained in the manuscript:
 
-Küçük Ç., Koirala S., Carvalhais N., Miralles D.G., Reichstein M., and Jung M. (2020) Characterising the response of vegetation cover to water limitation in Africa using geostationary satellites. Earth System Science Data Discussions
+Küçük Ç., Koirala S., Carvalhais N., Miralles D.G., Reichstein M., and Jung M. (2020) Characterising the response of vegetation cover to water limitation in Africa using geostationary satellites.
 
 # Developer
 The scripts were written by [Çağlar Küçük](https://www.bgc-jena.mpg.de/bgi/index.php/People/CaglarKucuk) 
@@ -50,4 +50,4 @@ Any usage beyond the intended purpose are the responsibility of the users.
 
 # License: 
 
-CC BY 4.0
+CC BY-NC 4.0
