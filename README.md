@@ -23,7 +23,7 @@ expFit_process.R -> Implementation of Steps 1-8 of Algorithm-2
 
 ## Example
 
-master.R -> Script to run the functions provided above
+main.R -> Main script to run the functions provided above
 
 sampleDataPoints.rds -> Time series of FVC used in this study for 100 randomly selected grid cells 
 
