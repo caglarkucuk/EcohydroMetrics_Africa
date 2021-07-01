@@ -1,5 +1,5 @@
 expFit_process <- function(data_points, asy_df){
-  ## Complete procedure to define the dry down period and fit Eq. 1 to characterise the decay
+  ## Complete procedure to define the dry down period and fit Eq. 4 to characterise the decay
   # data_points should have unique Cell_ID's, Date, Value and unique Period_ID's for each decay period!
   # asy_df should be a dataframe with two columns, Cell_ID's and corresponding asymptote values under column "asy"!
   
