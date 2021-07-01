@@ -1,5 +1,5 @@
 expFit_intFree_asyMin <- function(x, p_id, pct_used, arg_asy){
-  ## Fit the Eq. 1 to the time series!
+  ## Fit the Eq. 4 to the time series!
   ## Return the characteristics of each event!
   # Keep in mind that lambda=1/exp(lrc) and standard error (SE) of lambda is SE(lambda)=lambda*SE(lrc)
   # Post processing is not included in these scripts!
